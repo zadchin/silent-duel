@@ -1,0 +1,2 @@
+## The Silent Duel Game
+Current test returns the best time to shoot for both players without deciding who is losing, since technically they shoot from the same time, where a_1 = 0.333333, and b_1 = 0.333333
